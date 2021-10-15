@@ -14,7 +14,7 @@ before use it ,you must install "antlr4-python3-runtime"
 ```bat
 pip install antlr4-python3-runtime  
 ```
-然后下载本仓库的所有文件并解压
+然后下载本仓库的所有文件并解压  
 and then download the folder of list_table_sql-py and unzip it
 
 现在，可以开始使用了  

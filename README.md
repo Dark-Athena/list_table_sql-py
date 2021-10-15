@@ -5,6 +5,9 @@ get all table's or view's name from a sql
 这个程序及其所使用的文件基于antlr4(v4.8) 和 grammar-v4 构建  
 this program and requirements was based on antlr4(v4.8) and grammar-v4 
 
+https://github.com/antlr/antlr4    
+https://github.com/antlr/grammars-v4/tree/master/sql/plsql
+
 你可以使用它从一个合法的sql脚本中获得其表和视图名称得清单  
 you can use it to get a list of table’s and view's name  from a legal sql_script  
 
